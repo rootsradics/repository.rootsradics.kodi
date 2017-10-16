@@ -1,0 +1,18 @@
+====================================================================
+Castback addon by [COLOR yellow]@rootsradics and @moacmoa[/COLOR]
+====================================================================
+
+
+v0.0.3 [14-Oct-2017]
+- Isolating livetv.sx (no more service yet)
+- Settings from scratch :
+	- Filter streamers
+	- JSON url
+	- Delay before re-download JSON
+- Display only sports and matches with desired links
+
+v0.0.2 [13-Oct-2017]
+- Stable version for Live_Sport -> livetv.sx
+
+v0.0.1
+-initial release, forked from Castaway
